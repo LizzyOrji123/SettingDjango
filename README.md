@@ -1,0 +1,2 @@
+# SettingDjango
+ First active Django
